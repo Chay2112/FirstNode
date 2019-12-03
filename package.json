@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Node.js project from aws practice",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log(\"Hello\")"
+  },
+  "author": "chaitanya I",
+  "license": "ISC",
+  "dependencies": "aws-sdk"
+}
